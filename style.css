@@ -12,7 +12,7 @@
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    background-image: url('img/NARUTO.full.2297141.png');
+    background-image: url(https://thumb.cloud.mail.ru/thumb/xw1/AniPro/NARUTO.full.2297141.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -562,79 +562,79 @@
 }
 
 .naruto {
-    background-image: url('img/naruto-main.jpg') !important;
+    background-image: url(https://thumb.cloud.mail.ru/thumb/xw1/AniPro/naruto/naruto-main.jpg) !important;
 }
 
 .gul {
-    background-image: url('img/gul/bg.jpg') !important;
+    background-image: url(https://thumb.cloud.mail.ru/thumb/xw1/AniPro/gul/bg.jpg) !important;
 }
 
 .akame {
-    background-image: url(https://get.wallhere.com/photo/Akame-ga-Kill-Akame-1938685.jpg) !important;
+    background-image: url(https://thumb.cloud.mail.ru/thumb/xw1/AniPro/akame/Akame-ga-Kill-Akame-1938685.jpg) !important;
 }
 
 .aot {
-    background-image: url('img/aot/bg.jpg') !important;
+    background-image: url(https://thumb.cloud.mail.ru/thumb/xw1/AniPro/aot/bg.jpg) !important;
 }
 
 .dn {
-    background-image: url('img/dn/bg.jpg') !important;
+    background-image: url(https://thumb.cloud.mail.ru/thumb/xw1/AniPro/dn/bg.jpg) !important;
 }
 
 .sear {
-    background-image: url('img/sear/bg.jpg') !important;
+    background-image: url(https://thumb.cloud.mail.ru/thumb/xw1/AniPro/sear/bg.jpg) !important;
 }
 
 .shit {
-    background-image: url('img/shit/bg.jpg') !important;
+    background-image: url(https://thumb.cloud.mail.ru/thumb/xw1/AniPro/shit/bg.jpg) !important;
 }
 
 .sai {
-    background-image: url('img/sai/bg.jpg') !important;
+    background-image: url(https://thumb.cloud.mail.ru/thumb/xw1/AniPro/sai/bg.jpg) !important;
 }
 
 .klinok {
-    background-image: url('img/klinok/bg.jpg') !important;
+    background-image: url(https://thumb.cloud.mail.ru/thumb/xw1/AniPro/klinok/bg.jpg) !important;
 }
 
 .klever {
-    background-image: url('img/klever/bg.jpg') !important;
+    background-image: url(https://thumb.cloud.mail.ru/thumb/xw1/AniPro/klever/bg.jpg) !important;
 }
 
 .top10-bg {
-    background-image: url('img/2.jpeg') !important;
+    background-image: url(https://thumb.cloud.mail.ru/thumb/xw1/AniPro/2.jpeg) !important;
 }
 
 .hxh {
-    background-image: url('img/hxh/bg.jpg') !important;
+    background-image: url(https://thumb.cloud.mail.ru/thumb/xw1/AniPro/hxh/bg.jpg) !important;
 }
 
 .stal {
-    background-image: url('img/stal/bg.jpg') !important;
+    background-image: url(https://thumb.cloud.mail.ru/thumb/xw1/AniPro/stal/bg.jpg) !important;
 }
 
 .mga {
-    background-image: url('img/mga/bg.png') !important;
+    background-image: url(https://thumb.cloud.mail.ru/thumb/xw1/AniPro/mga/bg.png) !important;
 }
 
 .ssg {
-    background-image: url('img/ssg/bg.jpg') !important;
+    background-image: url(https://thumb.cloud.mail.ru/thumb/xw1/AniPro/ssg/bg.jpg) !important;
 }
 
 .bb {
-    background-image: url('img/bb/bg.png') !important;
+    background-image: url(https://thumb.cloud.mail.ru/thumb/xw1/AniPro/bb/bg.png) !important;
 }
 .onep {
-    background-image: url('img/onep/bg.jpg') !important;
+    background-image: url(https://thumb.cloud.mail.ru/thumb/xw1/AniPro/onep/bg.jpg) !important;
 }
 .bl {
-    background-image: url('img/bl/bg.jpg') !important;
+    background-image: url(https://thumb.cloud.mail.ru/thumb/xw1/AniPro/bl/bg.jpg) !important;
 }
 .mvf {
-    background-image: url('img/mvf/bg.jpg') !important;
+    background-image: url(https://thumb.cloud.mail.ru/thumb/xw1/AniPro/mvf/bg.jpg) !important;
 }
 .db {
-    background-image: url('img/db/bg.jpg') !important;
+    background-image: url(https://thumb.cloud.mail.ru/thumb/xw1/AniPro/db/bg.jpg) !important;
 }
 .logo {
     position: relative;
@@ -1005,7 +1005,7 @@
     -webkit-backdrop-filter: blur(1px) !important;
     backdrop-filter: blur(1px) !important;
     padding: 15px !important;
-    -webkit-mask-image: url('img/arrow-sap.svg') !important;
+    -webkit-mask-image: url(https://thumb.cloud.mail.ru/thumb/xw1/AniPro/arrow-sap.svg) !important;
     -webkit-mask-repeat: no-repeat !important;
     -webkit-mask-position: center !important;
     -webkit-mask-size: cover !important;
@@ -1023,7 +1023,7 @@
     -webkit-backdrop-filter: blur(1px) !important;
     backdrop-filter: blur(1px) !important;
     padding: 15px !important;
-    -webkit-mask-image: url('img/arrow-sap.svg') !important;
+    -webkit-mask-image: url(https://thumb.cloud.mail.ru/thumb/xw1/AniPro/arrow-sap.svg) !important;
     -webkit-mask-repeat: no-repeat !important;
     -webkit-mask-position: center !important;
     -webkit-mask-size: cover !important;
@@ -1343,7 +1343,7 @@
     }
     .slick-next,
     .slick-prev {
-        -webkit-mask-image: url('img/arrow-sap-mob.svg') !important;
+        -webkit-mask-image: url(https://thumb.cloud.mail.ru/thumb/xw1/AniPro/arrow-sap-mob.svg) !important;
     }
     .slick-next:hover {
         transform: translateY(-50%) rotate(-90deg);
